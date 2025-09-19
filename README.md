@@ -17,7 +17,7 @@ A beginner-friendly Streamlit web application to classify Iris flower species us
 ## 🌐 Live Demo
 
 Try the app instantly, no installation required:  
-[https://iris-flower-classifier-app-ckb78utfqdnawpqvn2amy6.streamlit.app/](https://iris-flower-classifier-app-ckb78utfqdnawpqvn2amy6.streamlit.app/)
+[https://iris-flower-classifier-app-ckb78utfqdnawpqvn2amy6.streamlit.app/](https://iris-flower-prediction-sbypmcpm8bhlzg7n4z9nkn.streamlit.app/)
 
 ---
 
@@ -118,8 +118,8 @@ For questions or suggestions, feel free to open an issue.
 
 ## 📬 Contact
 
-- **GitHub:** [muzammaldeveloper](https://github.com/muzammaldeveloper)
-- **Email:** muzammal.contect@gmail.com
+- **GitHub:** [Muzammal Hussain](https://github.com/muzammal-258)
+- **Email:** muzammaldeveloper258@gmail.com
 
 ---
 
